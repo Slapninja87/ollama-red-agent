@@ -1,30 +1,31 @@
-Copyright (c) 2026 Michael Lambert. All Rights Reserved.
+Non-Commercial Source License
 
-RESTRICTED DEPLOYMENT LICENSE
+Copyright (c) 2026 Michael Lambert
 
-This software and associated documentation files (the "Software") are the 
-exclusive property of Michael Lambert.
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
 
-1. AUTHORIZED USE ONLY
-   Deployment against any other environment, system, or network requires explicit 
-   written authorization from the copyright holder prior to use.
+1. The above copyright notice and this permission notice shall be included in
+   all copies or substantial portions of the Software.
 
-2. NO REDISTRIBUTION
-   You may not copy, distribute, sublicense, publish, or transfer this Software 
-   or any derivative works to any third party without explicit written permission 
-   from the copyright holder.
+2. NON-COMMERCIAL USE ONLY. This Software is provided for non-commercial,
+   educational, and personal use only. You may not use this Software, or any
+   derivative works based upon it, for commercial purposes without the express
+   written consent of the copyright holder. Commercial purposes include, but
+   are not limited to: selling copies of the Software, using the Software as
+   part of a paid service, integrating the Software into a commercial product,
+   or using the Software for any revenue-generating activity.
 
-3. NO MODIFICATION WITHOUT AUTHORIZATION
-   You may not modify, adapt, or build upon this Software without explicit written 
-   permission from the copyright holder.
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
 
-4. NON-COMMERCIAL
-   This Software may not be used for any commercial purpose, revenue-generating 
-   activity, or as part of any paid product or service.
-
-5. NO WARRANTY
-   THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND. THE COPYRIGHT 
-   HOLDER SHALL NOT BE LIABLE FOR ANY DAMAGES ARISING FROM THE USE OR MISUSE OF 
-   THIS SOFTWARE.
-
-For authorization inquiries contact: Michael_Lambert1@hotmail.com
+For commercial licensing inquiries, contact: Michael_Lambert1@hotmail.com
